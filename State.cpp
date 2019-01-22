@@ -7,6 +7,7 @@
 #include <iostream>
 
 using std::cout;
+using std::endl;
 
 State::State(string inputString) {
     // TODO(wddddds): finish this function.

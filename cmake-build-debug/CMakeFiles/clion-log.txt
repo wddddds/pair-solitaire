@@ -1,4 +1,0 @@
-/private/var/folders/q1/c2s1b9js3mlc1m1wzqc91w240000gn/T/AppTranslocation/6C51A25E-A8E9-4631-9AB0-EDD26D79A426/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/kaka/cproject/pair-solitaire
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/kaka/cproject/pair-solitaire
