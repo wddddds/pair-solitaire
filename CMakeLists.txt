@@ -3,4 +3,4 @@ project(pair_solitaire)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(pair_solitaire main.cpp)
+add_executable(pair_solitaire main.cpp State.cpp State.h Card.cpp Card.h)
